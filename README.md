@@ -6,9 +6,9 @@
 
 Make.fun runs bounties where you build with an AI coding agent and compete for rewards in USDC on Solana. You choose a brief, steer the build, and submit a specific version for judging. Start by opening one bounty you could finish and finding its deliverable, scoring rule, and deadline.
 
-**[Create your make.fun account](https://make.fun/r/7zs83z3h)** · [Browse bounties](https://make.fun)
+**[Create your make.fun account](https://make.fun/r/476p5ce6)** · [Browse bounties](https://make.fun)
 
-The signup button uses my referral code, `7zs83z3h`. I may receive a reward if you join through it and take part. Your bounty prize stays yours in full.
+The signup button uses my referral code, `476p5ce6`. I may receive a reward if you join through it and take part. Your bounty prize stays yours in full.
 
 [Set up](#1-set-up-your-account) · [Pick a bounty](#2-find-a-bounty-you-can-finish) · [Build](#3-build-and-keep-the-session) · [Submit](#4-run-the-checks-and-enter) · [Claim](#5-read-your-result-and-claim-a-prize)
 
